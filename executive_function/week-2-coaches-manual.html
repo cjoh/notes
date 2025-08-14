@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 2 Coaching Manual — Time-Blocking & Task Slicing (Coach Edition, 50 min) - Core Values Recovery</title>
+    
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&family=Open+Sans:wght@400;600;700&display=swap');
+    
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: 'Open Sans', Arial, sans-serif;
+        line-height: 1.6;
+        color: #343a40;
+        background: #ffffff;
+        font-size: 12px;
+    }
+    
+    .container {
+        max-width: 8.5in;
+        margin: 0 auto;
+        padding: 0.75in;
+        background: #ffffff;
+    }
+    
+    /* Header */
+    .header {
+        text-align: center;
+        margin-bottom: 2rem;
+        padding-bottom: 1rem;
+        border-bottom: 3px solid #1d4486;
+    }
+    
+    .logo {
+        max-width: 200px;
+        height: auto;
+        margin-bottom: 1rem;
+    }
+    
+    .company-name {
+        font-family: 'Bebas Neue', sans-serif;
+        font-weight: 400;
+        font-size: 24px;
+        color: #1d4486;
+        letter-spacing: 2px;
+        margin-bottom: 0.5rem;
+    }
+    
+    .tagline {
+        font-size: 10px;
+        color: #6c757d;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    
+    /* Main Title */
+    h1 {
+        font-family: 'Bebas Neue', sans-serif;
+        font-weight: 400;
+        font-size: 32px;
+        color: #1d4486;
+        text-align: center;
+        margin: 2rem 0 1.5rem 0;
+        line-height: 1.2;
+        letter-spacing: 1px;
+    }
+    
+    /* Section Headers */
+    h2 {
+        font-family: 'Bebas Neue', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        color: #1d4486;
+        margin: 2rem 0 1rem 0;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid #e3f2fd;
+        letter-spacing: 0.5px;
+    }
+    
+    h3 {
+        font-family: 'Bebas Neue', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #1d4486;
+        margin: 1.5rem 0 0.75rem 0;
+        letter-spacing: 0.5px;
+    }
+    
+    h4 {
+        font-weight: 600;
+        color: #1d4486;
+        margin: 1rem 0 0.5rem 0;
+        font-size: 13px;
+    }
+    
+    /* Paragraphs and Text */
+    p {
+        margin: 0.75rem 0;
+        text-align: justify;
+        hyphens: auto;
+    }
+    
+    em {
+        font-style: italic;
+        color: #6c757d;
+        font-size: 11px;
+    }
+    
+    strong {
+        font-weight: 700;
+        color: #1d4486;
+    }
+    
+    /* Lists */
+    ul, ol {
+        margin: 0.75rem 0 0.75rem 1.5rem;
+    }
+    
+    li {
+        margin: 0.25rem 0;
+        line-height: 1.5;
+    }
+    
+    /* Horizontal Rules */
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(to right, #1d4486, #e3f2fd, #1d4486);
+        margin: 2rem 0;
+    }
+    
+    /* Quotes and Highlights */
+    blockquote {
+        background: #f8f9fa;
+        border-left: 4px solid #1d4486;
+        padding: 1rem 1.5rem;
+        margin: 1rem 0;
+        font-style: italic;
+    }
+    
+    /* Code and Technical Text */
+    code {
+        background: #f8f9fa;
+        padding: 0.2rem 0.4rem;
+        border-radius: 3px;
+        font-family: 'Courier New', monospace;
+        font-size: 11px;
+    }
+    
+    pre {
+        background: #f8f9fa;
+        padding: 1rem;
+        border-radius: 5px;
+        border-left: 4px solid #1d4486;
+        margin: 1rem 0;
+        overflow-x: auto;
+    }
+    
+    /* Callout Boxes */
+    .callout {
+        background: #e3f2fd;
+        border: 1px solid #1d4486;
+        border-radius: 5px;
+        padding: 1rem;
+        margin: 1rem 0;
+    }
+    
+    .callout h4 {
+        margin-top: 0;
+        color: #1d4486;
+    }
+    
+    /* Time Blocks */
+    .time-block {
+        background: #ffffff;
+        border: 2px solid #1d4486;
+        border-radius: 5px;
+        padding: 1rem;
+        margin: 1rem 0;
+        page-break-inside: avoid;
+    }
+    
+    .time-block h3 {
+        margin-top: 0;
+        background: #1d4486;
+        color: #ffffff;
+        padding: 0.5rem 1rem;
+        margin: -1rem -1rem 1rem -1rem;
+        border-radius: 3px 3px 0 0;
+    }
+    
+    /* Footer */
+    .footer {
+        margin-top: 3rem;
+        padding-top: 1rem;
+        border-top: 2px solid #1d4486;
+        text-align: center;
+        font-size: 10px;
+        color: #6c757d;
+    }
+    
+    /* Print Styles */
+    @media print {
+        body {
+            font-size: 11px;
+        }
+        
+        .container {
+            padding: 0.5in;
+        }
+        
+        h1 {
+            font-size: 28px;
+        }
+        
+        h2 {
+            font-size: 18px;
+        }
+        
+        .time-block, .callout {
+            page-break-inside: avoid;
+        }
+        
+        .header {
+            page-break-after: avoid;
+        }
+    }
+    
+    /* Table Styles */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1rem 0;
+    }
+    
+    th, td {
+        border: 1px solid #6c757d;
+        padding: 0.5rem;
+        text-align: left;
+    }
+    
+    th {
+        background: #1d4486;
+        color: #ffffff;
+        font-weight: 600;
+    }
+    
+    tr:nth-child(even) {
+        background: #f8f9fa;
+    }
+    </style>
+    
+</head>
+<body>
+    <div class="container">
+        
+    <div class="header">
+        <div class="company-name">CORE VALUES RECOVERY</div>
+        <div class="tagline">Professional Coaching &amp; Development</div>
+    </div>
+    
+        <h1>Week 2 Coaching Manual — Time-Blocking & Task Slicing (Coach Edition, 50 min)</h1>
+
+<em>A warm, practical coaching session for emerging adult men. We're keeping everything bite-sized and permission-based!</em>
+
+<hr>
+
+<h2>Coach Quick-Start (your pre-session cheat sheet!)</h2>
+
+<strong>What Week 2 is really about:</strong> We're turning those vague "I should do X" thoughts into actual calendar events that are so small and specific, they're almost impossible to skip. You're not here to be a cheerleader—you're here to help make starting ridiculously easy.
+
+<strong>The vibe you're going for:</strong> Think friendly gym buddy who's also really organized. Relaxed, collaborative, and super concrete. You're counting reps together, celebrating every small start, and keeping those weights nice and light.
+
+<strong>This week's victory lap looks like:</strong>
+Your client ends the session with two simple 5-step checklists, three manageable focus blocks on their calendar, two backup plans for when things go sideways, and they'll actually do one 10–12 minute work session during the call with you. Pretty cool, right?
+
+<h3>Before your client arrives (3-minute prep)</h3>
+<ol>
+<li>Pull up last week's Weekly Dashboard and find something good to highlight (there's always something!)</li>
+<li>Have these ready: 5-Step Checklist (grab 2), If-Then Starter, Daily 5-Minute Plan, and their calendar</li>
+<li>Your golden rule: "If anything feels harder than a 6/10, we make it smaller. No exceptions!"</li>
+</ol>
+
+<h3>Your opening line (feel free to make it your own)</h3>
+
+<p>"Hey! So today we're going to take two of those tasks floating around in your head and turn them into super simple checklists. Then we'll block out three short work sessions—just 15–25 minutes each where you work on one thing with your phone on Do Not Disturb. We're not trying to be heroes here—just practicing getting started. And if anything feels too big, we'll just chop it in half. Sound good?"</p>
+
+<h3>Three simple concepts you're sharing</h3>
+• <strong>Task slicing:</strong> Breaking stuff down into 2–5 minute baby steps (embrace the ugly first draft!)
+• <strong>Focus blocks:</strong> One timer, one task, phone on silent, and when the timer goes off, you're done
+• <strong>If-Then planning:</strong> "If [this thing happens] → then [I do this tiny action]"
+
+<h3>What success actually looks like today</h3>
+• Three real calendar events linked to checklist steps (like "Tue 10:00–10:20 Resume—Step 1")
+• Your client can tell you exactly how they'll start ("I'll open the doc and write 2 messy bullet points")
+• Two If-Then backup plans (one for phone temptation, one for low energy)
+• They actually do one practice round with you, plus a quick "how'd that feel?" chat
+
+<h3>Common hiccups & your quick saves</h3>
+• <strong>"I'll do it later"</strong> → Let's pick a specific 10–15 min slot tomorrow morning. What's the very first 2-minute thing you'll do?
+• <strong>Phone vortex</strong> → Phone goes across the room on DND. If-Then: "If I pick up my phone → I open my task app and do one tiny step"
+• <strong>Feeling overwhelmed</strong> → Let's rename this task to just the first motion ("Open notes and write 3 quick bullets")
+• <strong>No energy</strong> → Standing desk hack + water + just 2 minutes to start; maybe schedule it earlier in the day?
+
+<hr>
+
+<h2>Quick Safety Check (30 seconds, but important!)</h2>
+• Remember: You're teaching skills and building routines, not diagnosing or treating anything
+• If safety concerns come up (harm to self/others, medical stuff, substance issues), pause and help them connect with the right professional
+• If they have a therapist, you can coordinate with permission—you're all on the same team!
+
+<strong>Your simple explanation:</strong> "I'm here to help you build practical routines and habits. If something medical or safety-related comes up, I'll help you find the right professional for that."
+
+<hr>
+
+<h2>What We're Actually Accomplishing Today</h2>
+
+By the end of this session, your client will:
+<ol>
+<li>Transform two nebulous tasks into clear 5-step checklists (with obvious first moves)</li>
+<li>Put three manageable focus blocks on their actual calendar (15–25 min each)</li>
+<li>Create two If-Then backup plans for their most common stumbling blocks</li>
+<li>Complete one real 10–12 minute work session during the call with you</li>
+<li>End with 1–3 tiny commitments and a check-in plan</li>
+</ol>
+
+<strong>Quick vocab guide:</strong> Focus block = 15–25 minute protected work time | Task slicing = breaking things into minute-sized pieces | If-Then = your pre-planned response to obstacles | Activation rep = actually doing a short practice round
+
+<hr>
+
+<h2>What You'll Need</h2>
+• Worksheets: 5-Step Checklist (×2), If-Then Starter, Daily 5-Minute Plan, Weekly Dashboard (Lite)
+• Their phone/calendar, a timer, and something to write with
+• Comfy seating arrangement where you can both see the materials
+
+<hr>
+
+<h2>Your 50-Minute Game Plan (with friendly scripts!)</h2>
+
+<p>### 0–3 min | Quick connection • "What's been going well since we last talked?" (Jot one win on the Dashboard) • "Any obstacles we should game-plan around today?" (Keep it brief—we're solution-focused!)</p>
+
+<p>### 3–8 min | Remember the 'why' • "Which area feels most important this week—school/work, health, relationships, money, or purpose?" • "If we made even tiny progress there, what would be different by Sunday?" (Just one sentence!)</p>
+
+<p>### 8–18 min | Task Slicing magic: two 5-step checklists • Pick two medium-sized tasks (like "update resume," "organize room," "study chapter 3") • Using the 5-Step Checklist:   - "What's the messiest, quickest first step—something that takes 2–5 minutes?"   - Fill in steps 1–5 together • If they're stuck: "Imagine texting a friend the instructions—what would you tell them to do first?" • Your mantra: "Too big? Cut it in half!"</p>
+
+<p>### 18–28 min | Time-Blocking: getting it on the calendar • Explain: "One timer, one task, phone on silent, and when time's up, you stop—even mid-sentence!" • Add three 15–25 min blocks to their calendar this week (each tied to a checklist step) • Set reminders 5 minutes before each block • Pro tip: They can rename their Focus mode to 'Work Sprint' or something fun</p>
+
+<p>### 28–34 min | If-Then backup plans (2 rules) • Using the If-Then Starter:   - "If I grab my phone during a work block → then I open my task app and do the next 2-minute step"   - "If I feel sluggish at start time → then I work standing for 2 minutes, sip water, keep going" • Add one custom If-Then based on their actual patterns</p>
+
+<p>### 34–46 min | Let's actually do this! (10–12 min practice) • Set a 10–12 minute timer. They do step 1 of a checklist right now • Your coaching during the rep:   - "Feel that urge to check your phone? Flip it face-down, back to your tiny step"   - "Remember, we're just practicing starting—not trying to finish everything" • Quick debrief after: "What made it easier to start? What will you do again next time?"</p>
+
+<p>### 46–49 min | Lock in the commitments • Choose 1–3 micro-commitments from the library below (put them right on the calendar!) • Set up Mon/Wed/Fri check-ins (just a photo of their Daily Plan or a one-line update)</p>
+
+<p>### 49–50 min | Confidence check & encouragement • "On a scale of 0–10, how confident are you feeling?" If it's under 7 → make something smaller • "Remember, this week is just another experiment. We'll learn what works and adjust as we go!"</p>
+
+<hr>
+
+<h2>Micro-Commitments Menu (Week 2)</h2>
+
+<p>Pick 1–3 that feel totally doable (should be at least 7/10 confidence): • Complete three focus blocks (15–25 min each) on the scheduled days • Finish step 1 of both checklists by Wednesday • Send one text to set up a casual study session, work meeting, or workout • Try Phone-Out Nights 2–3 times (phone charges in another room) • Do a 10-minute speed-tidy after dinner twice this week</p>
+
+<hr>
+
+<h2>Their Homework (keeping it simple!)</h2>
+<ol>
+<li>Fill out the Daily 5-Minute Plan (send photo M/W/F)</li>
+<li>Do those three focus blocks; use the If-Then rules when needed</li>
+<li>Update the Weekly Dashboard each evening (takes 30 seconds, seriously)</li>
+<li>Get through steps 1–3 on at least one checklist</li>
+</ol>
+
+<strong>Week 2 success looks like:</strong> At least 3 focus blocks done, one checklist to step 3, dashboard updated most days
+
+<hr>
+
+<h2>Your Troubleshooting Toolkit</h2>
+• <strong>Keeps postponing?</strong> Shrink to 10–15 min, schedule it earlier, get super specific about the first 2-min move
+• <strong>Phone addiction?</strong> Remove tempting apps from home screen, try grayscale, DND always, phone in another room, enforce that If-Then rule
+• <strong>Overwhelm city?</strong> Rename the task to just the first tiny action, remember: cut it in half!
+• <strong>Energy crash?</strong> Standing start + water + two-minute commitment only
+
+<hr>
+
+<h2>Your Session Notes Template</h2>
+
+<strong>Value focus:</strong> …  
+<strong>Two 5-step checklists for:</strong> … / …  
+<strong>Blocks scheduled:</strong> …  
+<strong>If-Then rules:</strong> 1) … 2) …  
+<strong>Practice session completed:</strong> Y/N — Notes: …  
+<strong>Micro-commitments & check-ins:</strong> …  
+<strong>Dashboard metrics to watch:</strong> Focus blocks • Focus minutes • Daily win
+
+<hr>
+
+<h2>Your Handout Arsenal</h2>
+• 5-Step Checklist Template
+• If-Then Starter Sheet
+• Daily 5-Minute Plan
+• Weekly Dashboard (Lite)
+
+<hr>
+
+<h2>Sneak Peek at Week 3</h2>
+
+<p>Next week we're tackling energy and environment: dialing in a sleep window, setting movement minimums, doing a workspace reset, creating a simple "phone-out" routine, and adding one tiny social goal. It's going to be great!</p>
+
+<em>Want this as a styled one-pager PDF in your brand colors? Just let me know!</em>
+        
+    <div class="footer">
+        <p>&copy; 2025 Core Values Recovery. All rights reserved.</p>
+        <p>Professional coaching materials for internal use only.</p>
+    </div>
+    
+    </div>
+</body>
+</html>

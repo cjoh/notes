@@ -1,0 +1,61 @@
+TEXT EMBEDDINGS VISUAL EXPLANATION
+==================================
+
+1. PROCESS FLOW:
+----------------
+   "I love programming"
+           |
+           v
+   ╔═══════════════════╗
+   ║  Embedding Model  ║  (BERT, GPT-3, Word2Vec, etc.)
+   ║   (Neural Net)    ║
+   ╚═══════════════════╝
+           |
+           v
+   [0.8, 0.2, 0.5, ..., 0.3]  (Vector of 768 dimensions)
+
+
+2. EMBEDDING SPACE (2D Simplified View):
+----------------------------------------
+    ^
+    |     "Weather is nice"
+    |           ○
+    |
+    |    "I love programming" ● ——— ● "I enjoy coding"
+    |                         \   /
+    |                          \ /
+    |                           ● "I like software"
+    |
+    |        ● "I hate bugs"
+    +————————————————————————————————>
+
+    Note: Similar meanings cluster together!
+
+
+3. SIMILARITY CALCULATION:
+--------------------------
+   Vector A: [0.8, 0.2, 0.5]     Vector B: [0.7, 0.3, 0.6]
+                     \                   /
+                      \                 /
+                       Cosine Similarity
+                            = 0.984
+                    (Very similar texts!)
+
+
+4. REAL-WORLD APPLICATIONS:
+---------------------------
+   • Semantic Search: Find documents by meaning, not just keywords
+   • Chatbots: Understand user intent regardless of phrasing
+   • Recommendation: Suggest similar content based on embeddings
+   • Translation: Map meanings across languages
+   • Clustering: Group similar documents automatically
+   • Classification: Categorize text based on learned patterns
+
+
+5. KEY INSIGHTS:
+----------------
+   ✓ Embeddings capture MEANING, not just words
+   ✓ Mathematical operations work (king - man + woman ≈ queen)
+   ✓ Similar texts have similar vectors
+   ✓ Enables ML models to "understand" text
+   ✓ Foundation for modern NLP applications
