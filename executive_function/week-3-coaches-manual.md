@@ -1,4 +1,4 @@
-# Week 2 Coaching Manual — Time-Blocking & Task Slicing (Coach Edition, 50 min)
+# Week 3 Coaching Manual — Energy & Environment Optimization (Coach Edition, 50 min)
 
 *A warm, practical coaching session for emerging adult men. We're keeping everything bite-sized and permission-based!*
 
@@ -6,38 +6,41 @@
 
 ## Coach Quick-Start (your pre-session cheat sheet!)
 
-**What Week 2 is really about:** We're turning those vague "I should do X" thoughts into actual calendar events that are so small and specific, they're almost impossible to skip. You're not here to be a cheerleader—you're here to help make starting ridiculously easy.
+**What Week 3 is really about:** We're dialing in the foundational elements that make everything else easier—sleep windows, movement minimums, workspace setup, phone boundaries, and one tiny social connection goal. You're not here to overhaul their entire life—you're here to help them create conditions where focus and energy happen naturally.
 
-**The vibe you're going for:** Think friendly gym buddy who's also really organized. Relaxed, collaborative, and super concrete. You're counting reps together, celebrating every small start, and keeping those weights nice and light.
+**The vibe you're going for:** Think wise personal trainer who also knows about sleep science. Warm, evidence-based, and super practical. You're helping them build the foundation that makes Week 1 and 2 skills actually sustainable.
 
 **This week's victory lap looks like:**
-Your client ends the session with two simple 5-step checklists, three manageable focus blocks on their calendar, two backup plans for when things go sideways, and they'll actually do one 10–12 minute work session during the call with you. Pretty cool, right?
+Your client ends the session with a realistic sleep window, a 15-minute movement minimum, one workspace improvement completed during the call, a simple "phone-out" routine, and one tiny social goal they'll actually follow through on. We're building the engine that powers everything else.
 
 ### Before your client arrives (3-minute prep)
 1. Have their Weekly Dashboard ready to review together for wins from last week
-2. Have ready to screen share: 5-Step Checklist (grab 2), If-Then Starter, Daily 5-Minute Plan
-3. Your golden rule: "If anything feels harder than a 6/10, we make it smaller. No exceptions!"
+2. Have ready to screen share: Sleep Window Planner, Movement Menu, Workspace Audit, Phone-Out Routine, Social Connection Goal
+3. Your golden rule: "We're optimizing for energy, not perfection. Small improvements compound fast!"
 
 ### Your opening line (feel free to make it your own)
 
-"Hey! So today we're going to take two of those tasks floating around in your head and turn them into super simple checklists. Then we'll block out three short work sessions—just 15–25 minutes each where you work on one thing with your phone on Do Not Disturb. We're not trying to be heroes here—just practicing getting started. And if anything feels too big, we'll just chop it in half. Sound good?"
+"Hey! So today we're going to dial in the fundamentals that make everything else easier—your sleep window, movement minimum, workspace setup, phone boundaries, and one social connection goal. We're not trying to become monks here—just creating conditions where your brain has the energy and environment it needs to actually focus. And we'll test one workspace improvement right now during our call. Sound good?"
 
-### Three simple concepts you're sharing
-• **Task slicing:** Breaking stuff down into 2–5 minute baby steps (embrace the ugly first draft!)
-• **Focus blocks:** One timer, one task, phone on silent, and when the timer goes off, you're done
-• **If-Then planning:** "If [this thing happens] → then [I do this tiny action]"
+### Five simple concepts you're sharing
+• **Sleep windows:** Consistent bedtime/wake ranges (not rigid schedules) that work with your natural rhythm
+• **Movement minimums:** 15 minutes daily that count as "movement"—walking, stretching, anything that gets blood flowing
+• **Workspace optimization:** Simple environmental changes that reduce friction and distraction
+• **Phone boundaries:** Clear "phone-out" times and spaces that protect your focus
+• **Social scaffolding:** One tiny weekly social goal that builds connection and accountability
 
 ### What success actually looks like today
-• Three real calendar events linked to checklist steps (like "Tue 10:00–10:20 Resume—Step 1")
-• Your client can tell you exactly how they'll start ("I'll open the doc and write 2 messy bullet points")
-• Two If-Then backup plans (one for phone temptation, one for low energy)
-• They actually do one practice round with you, plus a quick "how'd that feel?" chat
+• A realistic sleep window that they'll actually stick to (like "in bed by 11:30pm, awake by 7:30am")
+• A 15-minute movement commitment that feels totally doable ("walk around the block after lunch")
+• One workspace improvement completed during the session (cleared desk, phone charging station, etc.)
+• A simple "phone-out" routine for focus time ("phone goes in kitchen drawer during work blocks")
+• One tiny social goal they'll follow through on ("text one friend to grab coffee this week")
 
 ### Common hiccups & your quick saves
-• **"I'll do it later"** → Let's pick a specific 10–15 min slot tomorrow morning. What's the very first 2-minute thing you'll do?
-• **Phone vortex** → Phone goes across the room on DND. If-Then: "If I pick up my phone → I open my task app and do one tiny step"
-• **Feeling overwhelmed** → Let's rename this task to just the first motion ("Open notes and write 3 quick bullets")
-• **No energy** → Standing desk hack + water + just 2 minutes to start; maybe schedule it earlier in the day?
+• **"I'm not a morning person"** → Let's work with your natural rhythm. When do you actually feel most awake? Let's build around that.
+• **"I don't have time to exercise"** → Walking to get coffee counts. Taking stairs counts. 15 minutes is less than one TikTok scroll session.
+• **"My space is too small"** → We can optimize any space. Sometimes it's just moving your phone charger to another room.
+• **"I'm not social"** → One text message counts. Saying hi to a neighbor counts. We're building the muscle, not hosting parties.
 
 ---
 
@@ -53,20 +56,20 @@ Your client ends the session with two simple 5-step checklists, three manageable
 ## What We're Actually Accomplishing Today
 
 By the end of this session, your client will:
-1. Transform two nebulous tasks into clear 5-step checklists (with obvious first moves)
-2. Put three manageable focus blocks on their actual calendar (15–25 min each)
-3. Create two If-Then backup plans for their most common stumbling blocks
-4. Complete one real 10–12 minute work session during the call with you
-5. End with 1–3 tiny commitments and a check-in plan
+1. Establish a realistic sleep window that works with their natural rhythm and lifestyle
+2. Choose a 15-minute daily movement minimum that feels totally achievable
+3. Complete one workspace optimization during the call (clearing desk, setting up phone charging station, etc.)
+4. Create a simple "phone-out" routine for protecting focus time
+5. Set one tiny social connection goal for the week
 
-**Quick vocab guide:** Focus block = 15–25 minute protected work time | Task slicing = breaking things into minute-sized pieces | If-Then = your pre-planned response to obstacles | Activation rep = actually doing a short practice round
+**Quick vocab guide:** Sleep window = consistent bedtime/wake ranges (not rigid times) | Movement minimum = 15 minutes of any physical activity that counts | Workspace optimization = environmental changes that reduce friction | Phone-out routine = specific times/places where phone is away | Social scaffolding = tiny weekly social goals that build connection
 
 ---
 
 ## What You'll Need
-• Worksheets: 5-Step Checklist (×2), If-Then Starter, Daily 5-Minute Plan, Weekly Dashboard (Lite)
-• Their phone/calendar, a timer, and something to write with
-• Comfy seating arrangement where you can both see the materials
+• Worksheets: Sleep Window Planner, Movement Menu, Workspace Audit Checklist, Phone-Out Routine Guide, Social Connection Goal Sheet, Weekly Dashboard (Lite)
+• Their phone/calendar, and something to write with
+• Comfy seating arrangement where you can both see the materials (and access to their workspace for the optimization exercise)
 
 ---
 
@@ -74,100 +77,121 @@ By the end of this session, your client will:
 
 ### 0–3 min | Quick connection
 • "What's been going well since we last talked?" (Jot one win on the Dashboard)
-• "Any obstacles we should game-plan around today?" (Keep it brief—we're solution-focused!)
+• "How's your energy been lately? Any patterns you've noticed?" (Keep it brief—we're solution-focused!)
 
 ### 3–8 min | Remember the 'why'
 • "Which area feels most important this week—school/work, health, relationships, money, or purpose?"
-• "If we made even tiny progress there, what would be different by Sunday?" (Just one sentence!)
+• "If you had more consistent energy and better focus, what would change first?" (Just one sentence!)
 
-### 8–18 min | Task Slicing magic: two 5-step checklists
-• Pick two medium-sized tasks (like "update resume," "organize room," "study chapter 3")
-• Using the 5-Step Checklist:
-  - "What's the messiest, quickest first step—something that takes 2–5 minutes?"
-  - Fill in steps 1–5 together
-• If they're stuck: "Imagine texting a friend the instructions—what would you tell them to do first?"
-• Your mantra: "Too big? Cut it in half!"
+### 8–15 min | Sleep Window: finding your rhythm
+• Using the Sleep Window Planner:
+  - "When do you naturally start feeling tired? When do you naturally wake up on weekends?"
+  - Create a realistic window (like "in bed 11:00-11:30pm, awake 7:00-7:30am")
+  - "What's one tiny thing that would make bedtime easier?" (phone in other room, clothes laid out, etc.)
+• Your mantra: "We're optimizing for consistency, not perfection!"
 
-### 18–28 min | Time-Blocking: getting it on the calendar
-• Explain: "One timer, one task, phone on silent, and when time's up, you stop—even mid-sentence!"
-• Add three 15–25 min blocks to their calendar this week (each tied to a checklist step)
-• Set reminders 5 minutes before each block
-• Pro tip: They can rename their Focus mode to 'Work Sprint' or something fun
+### 15–22 min | Movement Minimum: 15 minutes that count
+• Using the Movement Menu, pick what feels totally doable:
+  - Walking (to coffee shop, around block, during phone calls)
+  - Stretching/yoga (morning routine, between classes, before bed)
+  - Active chores (cleaning while dancing, taking stairs, standing desk)
+• Add it to their calendar as a daily 15-minute block
+• "What counts as your movement win for today?"
 
-### 28–34 min | If-Then backup plans (2 rules)
-• Using the If-Then Starter:
-  - "If I grab my phone during a work block → then I open my task app and do the next 2-minute step"
-  - "If I feel sluggish at start time → then I work standing for 2 minutes, sip water, keep going"
-• Add one custom If-Then based on their actual patterns
+### 22–30 min | Workspace Optimization: let's do this now!
+• Quick workspace audit together (where they usually work)
+• Pick ONE improvement to do right now during the call:
+  - Clear the desk surface
+  - Set up phone charging station in another room
+  - Create a "focus mode" setup (water, notebook, good lighting)
+• "What's the one thing that would make starting work feel easier?"
 
-### 34–46 min | Let's actually do this! (10–12 min practice)
-• Set a 10–12 minute timer. They do step 1 of a checklist right now
-• Your coaching during the rep:
-  - "Feel that urge to check your phone? Flip it face-down, back to your tiny step"
-  - "Remember, we're just practicing starting—not trying to finish everything"
-• Quick debrief after: "What made it easier to start? What will you do again next time?"
+### 30–38 min | Phone-Out Routine: creating boundaries
+• Design a simple phone boundary system:
+  - During focus blocks: "Phone goes in [specific location] on Do Not Disturb"
+  - Before bed: "Phone charges in [kitchen/living room] starting at [time]"
+  - One "phone-free" meal or activity per day
+• Test it right now—have them put phone away for rest of session
 
-### 46–49 min | Lock in the commitments
+### 38–42 min | Social Connection: one tiny goal
+• Pick ONE social action for this week:
+  - Text one friend to grab coffee/lunch
+  - Say hi to one neighbor or classmate
+  - Join one group activity (study group, gym class, hobby meet-up)
+• Put it on the calendar with a specific day and time
+• "What's the easiest way for you to connect with people?"
+
+### 42–47 min | Integration check: how it all works together
+• Quick review: "So you've got your sleep window, movement minimum, workspace setup, phone boundaries, and social goal"
+• "How do you think these will impact your ability to focus and follow through on work?"
+• Identify the ONE thing that feels most important to nail this week
+
+### 47–49 min | Lock in the commitments
 • Choose 1–3 micro-commitments from the library below (put them right on the calendar!)
-• Set up Mon/Wed/Fri check-ins (just a photo of their Daily Plan or a one-line update)
+• Set up Mon/Wed/Fri check-ins (just a photo of their sleep/movement/workspace wins)
 
 ### 49–50 min | Confidence check & encouragement
-• "On a scale of 0–10, how confident are you feeling?" If it's under 7 → make something smaller
-• "Remember, this week is just another experiment. We'll learn what works and adjust as we go!"
+• "On a scale of 0–10, how confident are you feeling about these changes?" If it's under 7 → make something smaller
+• "Remember, this week is about building the foundation that makes everything else easier. Small improvements compound fast!"
 
 ---
 
-## Micro-Commitments Menu (Week 2)
+## Micro-Commitments Menu (Week 3)
 
 Pick 1–3 that feel totally doable (should be at least 7/10 confidence):
-• Complete three focus blocks (15–25 min each) on the scheduled days
-• Finish step 1 of both checklists by Wednesday
-• Send one text to set up a casual study session, work meeting, or workout
-• Try Phone-Out Nights 2–3 times (phone charges in another room)
-• Do a 10-minute speed-tidy after dinner twice this week
+• Follow your sleep window 5 out of 7 nights this week
+• Hit your 15-minute movement minimum 5 out of 7 days
+• Keep your workspace optimization in place all week
+• Use phone-out routine during work time 3+ times this week
+• Complete your one social connection goal by Friday
+• Take a photo of your optimized workspace and send it by Wednesday
 
 ---
 
 ## Their Homework (keeping it simple!)
-1. Fill out the Daily 5-Minute Plan (send photo M/W/F)
-2. Do those three focus blocks; use the If-Then rules when needed
-3. Update the Weekly Dashboard each evening (takes 30 seconds, seriously)
-4. Get through steps 1–3 on at least one checklist
+1. Follow your sleep window and track it (send photo of sleep log M/W/F)
+2. Hit your 15-minute movement minimum and note what you did
+3. Maintain your workspace optimization and use phone-out routine
+4. Complete your social connection goal by Friday
+5. Update the Weekly Dashboard each evening (takes 30 seconds, seriously)
 
-**Week 2 success looks like:** At least 3 focus blocks done, one checklist to step 3, dashboard updated most days
+**Week 3 success looks like:** Sleep window followed 5+ nights, movement minimum hit 5+ days, workspace stayed optimized, social goal completed, dashboard updated most days
 
 ---
 
 ## Your Troubleshooting Toolkit
-• **Keeps postponing?** Shrink to 10–15 min, schedule it earlier, get super specific about the first 2-min move
-• **Phone addiction?** Remove tempting apps from home screen, try grayscale, DND always, phone in another room, enforce that If-Then rule
-• **Overwhelm city?** Rename the task to just the first tiny action, remember: cut it in half!
-• **Energy crash?** Standing start + water + two-minute commitment only
+• **Can't stick to sleep window?** Move bedtime 15 minutes later, focus on consistency over perfection, address what's keeping them up (phone, anxiety, caffeine)
+• **Skipping movement?** Make it smaller (5-10 minutes), attach it to existing habit (after coffee, before lunch), count walking to places
+• **Workspace keeps getting messy?** Daily 2-minute tidy, one-touch rule (touch it once, deal with it), identify what's creating the mess
+• **Phone boundaries failing?** Physical distance is key, remove tempting apps from home screen, find better phone charging location, use airplane mode
 
 ---
 
 ## Your Session Notes Template
 
 **Value focus:** …  
-**Two 5-step checklists for:** … / …  
-**Blocks scheduled:** …  
-**If-Then rules:** 1) … 2) …  
-**Practice session completed:** Y/N — Notes: …  
+**Sleep window established:** …  
+**Movement minimum chosen:** …  
+**Workspace optimization completed:** …  
+**Phone-out routine:** …  
+**Social connection goal:** …  
 **Micro-commitments & check-ins:** …  
-**Dashboard metrics to watch:** Focus blocks • Focus minutes • Daily win
+**Dashboard metrics to watch:** Sleep consistency • Movement days • Workspace maintenance • Phone boundaries • Social connection
 
 ---
 
 ## Your Handout Arsenal
-• 5-Step Checklist Template
-• If-Then Starter Sheet
-• Daily 5-Minute Plan
+• Sleep Window Planner
+• Movement Menu & Tracker
+• Workspace Audit Checklist
+• Phone-Out Routine Guide
+• Social Connection Goal Sheet
 • Weekly Dashboard (Lite)
 
 ---
 
-## Sneak Peek at Week 3
+## Sneak Peek at Week 4
 
-Next week we're tackling energy and environment: dialing in a sleep window, setting movement minimums, doing a workspace reset, creating a simple "phone-out" routine, and adding one tiny social goal. It's going to be great!
+Next week we're putting it all together: building morning and evening routines that stick, creating simple systems for staying on track, and developing the skills to adjust when life gets crazy. We'll also work on building confidence for maintaining these changes long-term. It's going to be great!
 
 *Want this as a styled one-pager PDF in your brand colors? Just let me know!*

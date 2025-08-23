@@ -10,7 +10,7 @@
           {
             "id": "b15409384fb01626",
             "type": "tabs",
-            "dimension": 47.89719626168225,
+            "dimension": 75,
             "children": [
               {
                 "id": "7ac236da1b3551ce",
@@ -46,12 +46,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2025-07-29.md",
+                    "file": "business/clients/jarrod-d.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025-07-29"
+                  "title": "jarrod-d"
                 }
               }
             ],
@@ -60,90 +60,10 @@
           {
             "id": "b0dc4553c5999174",
             "type": "tabs",
-            "dimension": 52.10280373831776,
+            "dimension": 25,
             "children": [
               {
-                "id": "49d48a28db215f08",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/cjoh/Library/Mobile Documents/com~apple~CloudDocs/notes",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: ✳ CLI Asset Manager"
-                }
-              },
-              {
-                "id": "1a954c6c0f67749f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "about_me/Vitals.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vitals"
-                }
-              },
-              {
-                "id": "f6efdaf2cd29035e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "about_me/Biography.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Biography"
-                }
-              },
-              {
-                "id": "74c5b0e6cc923561",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CLAUDE.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "CLAUDE"
-                }
-              },
-              {
-                "id": "0d38932c1d6426d5",
+                "id": "c9674bbdf2d6ac20",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -156,8 +76,7 @@
                   "title": "ryan-j"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "horizontal"
@@ -233,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "business/clients/ryan-j.md",
+                "file": "business/clients/jarrod-d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ryan-j"
+              "title": "Backlinks for jarrod-d"
             }
           },
           {
@@ -294,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,8 +227,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0d38932c1d6426d5",
+  "active": "b2dbfbeabd2eb63f",
   "lastOpenFiles": [
+    "business/clients/jonathan-d.md",
+    "2025-07-29.md",
+    "business/clients/ryan-j.md",
+    "2025-08-18.md",
     "agatha/backend/node_modules/dotenv/lib/main.d.ts",
     "agatha/backend/node_modules/dotenv/lib/env-options.js",
     "agatha/backend/node_modules/dotenv/lib/cli-options.js",
@@ -323,7 +247,6 @@
     "agatha/backend/node_modules/dotenv/LICENSE",
     "agatha/backend/node_modules/dotenv/CHANGELOG.md",
     "agatha/backend/node_modules/dotenv",
-    "agatha/frontend/src/components/ChatPage_fixed.tsx",
     "agatha/frontend/node_modules/@heroicons/react/README.md",
     "agatha/frontend/node_modules/symbol-tree/README.md",
     "agatha/frontend/node_modules/stackback/README.md",
@@ -342,9 +265,6 @@
     "agatha/frontend/node_modules/jsdom/README.md",
     "agatha/frontend/node_modules/@csstools/css-tokenizer/README.md",
     "agatha/frontend/node_modules/@csstools/css-tokenizer/LICENSE.md",
-    "agatha/frontend/node_modules/@csstools/css-tokenizer/CHANGELOG.md",
-    "agatha/frontend/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
-    "agatha/frontend/node_modules/@typescript-eslint/eslint-plugin/README.md",
     "agatha/frontend/node_modules/playwright-core/lib/vite/traceViewer/playwright-logo.svg",
     "agatha/frontend/node_modules/playwright-core/lib/vite/recorder/playwright-logo.svg",
     "agatha/frontend/node_modules/playwright-core/lib/server/chromium/appIcon.png",

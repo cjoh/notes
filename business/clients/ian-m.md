@@ -1,4 +1,5 @@
 # LOG
+[2025-08-18] - Met with Ian this week. Took him to get a haircut, buy some shirts, have Jersey Mike's, and went outlet shopping. Took him to a meeting and he got a sponsor.
 [2025-08-07] - Status: 3/10. Tough week - his dog Chief died ~1 week ago. In treatment at Balance House but frustrated with other clients and wanting to leave. Missed second session in a row, called to apologize after CC/Colin confronted him about wanting to walk out. At emotional bottom - needs to decide if he wants to do the work. Question about medication compliance. High risk of leaving treatment.
 [2025-08-05] - Client file created
 
